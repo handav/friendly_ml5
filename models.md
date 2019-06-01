@@ -41,10 +41,10 @@ http://www.image-net.org/challenges/LSVRC/2012/
 https://ml5js.org/reference/api-ImageClassifier/
 
 Notes:
--takes a few seconds to predict
--you can see more results in the console
--it's not good at everything, but it's really good at some things (like animals)
--classifier.classify() is soon going to become classifier.predict() - keep an eye on the documentation!
+*takes a few seconds to predict
+*you can see more results in the console
+*it's not good at everything, but it's really good at some things (like animals)
+*classifier.classify() is soon going to become classifier.predict() - keep an eye on the documentation!
 
 ### FeatureExtractor
 
@@ -58,9 +58,9 @@ Options (for the mobilenet model):
 }
 
 Notes:
--I'm going through these examples as they are
--these are works in progress
--cat/dog/badger just means there are three classes
+*I'm going through these examples as they are
+*these are works in progress
+*cat/dog/badger just means there are three classes
 
 Links:
 https://ml5js.org/reference/api-FeatureExtractor/
@@ -74,9 +74,9 @@ https://github.com/marl/crepe
 http://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 Notes: 
--you need to click to start the audio context
--this returns the frequency, from which you can get the MIDI note (see above link if you are not familiar with these)
--the other examples are a little outdated
+*you need to click to start the audio context
+*this returns the frequency, from which you can get the MIDI note (see above link if you are not familiar with these)
+*the other examples are a little outdated
 
 ### PoseNet, PoseNet with webcam
 
@@ -87,9 +87,9 @@ https://ml5js.org/reference/api-PoseNet/
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
 
 Notes:
--returns a confidence score
--skeleton is keypoints in an organized fashion 
--can predict either single or multiple poses with the 'type' option
+*returns a confidence score
+*skeleton is keypoints in an organized fashion 
+*can predict either single or multiple poses with the 'type' option
 
 ### Sentiment
 
@@ -99,8 +99,8 @@ https://ml5js.org/reference/api-Sentiment/
 https://github.com/tensorflow/tfjs-examples/tree/master/sentiment
 
 Notes:
--very literal model, no sarcasm (common for sentiment)
--simple model, returns score 0-1
+*very literal model, no sarcasm (common for sentiment)
+*simple model, returns score 0-1
 
 
 ### UNET
@@ -112,8 +112,8 @@ https://ml5js.org/reference/api-UNET/
 https://arxiv.org/abs/1505.04597
 
 Notes:
--works best on one person
--needs decent lighting 
+*works best on one person
+*needs decent lighting 
 
 
 ## Generative models:
