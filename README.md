@@ -11,15 +11,15 @@ If you get a 'media error' message, try changing your link from http://0.0.0.0:8
 
 ### Schedule (subject to change)
 
-9-10:30 	Introductions, intro to machine learning in general
-				Break
-10:45-11 	Installing ml5, setting up p5
-11-12 		Diving into ml5 models 
-12-1		Break for lunch
-1-2		 	Diving into ml5 models
-				Break
-2:15-4 		Independent or group work on your own programs
-4-5 		Presentations of final work (optional)
+9-10:30 	Introductions, intro to machine learning in general\
+				Break\
+10:45-11 	Installing ml5, setting up p5\
+11-12 		Diving into ml5 models\
+12-1		Break for lunch\
+1-2		 	Diving into ml5 models\
+				Break\
+2:15-4 		Independent or group work on your own programs\
+4-5 		Presentations of final work (optional)\
 
 
 ### Resources:
