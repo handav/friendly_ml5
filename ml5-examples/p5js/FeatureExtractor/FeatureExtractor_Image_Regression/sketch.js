@@ -82,7 +82,10 @@ function setupButtons() {
 function gotResults(err, result) {
   if (err) {
     console.error(err);
+  }else{
+    console.log(result);
   }
+  //else result
   if (result && result.value) {
     positionX = map(result.value, 0, 1, 0, width);
     slider.value(result.value);

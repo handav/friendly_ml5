@@ -27,15 +27,15 @@ function setup() {
   // Extract the already learned features from MobileNet
   featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
   // Create a new classifier using those features and give the video we want to use
-  const options = { numLabels: 3 };
+  //const options = {  };
   // Other options you might want to play around with:
-  // const options = {
-  //   learningRate: 0.0001,
-  //   hiddenUnits: 100,
-  //   epochs: 20,
-  //   numClasses: 2,
-  //   batchSize: 0.4,
-  // }
+  const options = {
+    learningRate: 0.0001,
+    hiddenUnits: 100,
+    epochs: 20,
+    numLabels: 3,
+    batchSize: 0.4,
+  }
   classifier = featureExtractor.classification(video, options);
   // Set up the UI buttons
   setupButtons();
