@@ -1,0 +1,13 @@
+{
+  "licenser": {
+    "license": "MIT",
+    "author": "ml5",
+    "projectName": "ml5.js",
+    "useSingleLineStyle": true
+  },
+  "cSpell.words": [
+    "is",
+    "mobilenet",
+    "transferring"
+  ]
+}

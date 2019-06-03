@@ -23,7 +23,7 @@ Notes:
 ### Sentiment
 
 Model: Trained on 25,000 movie reviews from IMDB, tagged as 'positive' or 'negative'
-Links:
+\Links:
 https://ml5js.org/reference/api-Sentiment/
 https://github.com/tensorflow/tfjs-examples/tree/master/sentiment
 
@@ -35,7 +35,7 @@ Notes:
 
 Model: PoseNet: real-time pose estimation in the browser
 Year: 2018
-Links:
+\Links:
 https://ml5js.org/reference/api-PoseNet/
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
 
