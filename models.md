@@ -1,8 +1,8 @@
 # All models:
 
-## Hello world!
+### Hello world!
 
-### Image Classification, Image Classification with webcam
+#### Image Classification, Image Classification with webcam
 
 We can see 6 folders in here. We'll be looking at ImageClassification and ImageClassification_Video.
 
@@ -18,9 +18,9 @@ Notes:
 * it's not good at everything, but it's really good at some things (like animals)
 * classifier.predict() is soon going to become classifier.classify() - keep an eye on the documentation!
 
-## More classifiers:
+### More classifiers:
 
-### Sentiment
+#### Sentiment
 
 Model: Trained on 25,000 movie reviews from IMDB, tagged as 'positive' or 'negative'\
 Links:
@@ -33,10 +33,8 @@ Notes:
 
 ### PoseNet, PoseNet with webcam
 
-Model: PoseNet: real-time pose estimation in the browser
-
-Year: 2018
-
+Model: PoseNet: real-time pose estimation in the browser\
+Year: 2018\
 Links:
 https://ml5js.org/reference/api-PoseNet/
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
@@ -48,15 +46,15 @@ Notes:
 
 ### Sound Classifier
 
-Model: https://github.com/tensorflow/tfjs-models/tree/master/speech-commands
-Year: 2018
+Model: https://github.com/tensorflow/tfjs-models/tree/master/speech-commands\
+Year: 2018\
 Links:
 https://ml5js.org/reference/api-soundClassifier/
 
 ### Pitch Detection
 
-Model: CREPE Pitch detection model
-Year: 2018
+Model: CREPE Pitch detection model\
+Year: 2018\
 Links:
 https://github.com/marl/crepe
 http://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
@@ -68,8 +66,8 @@ Notes:
 
 ### UNET
 
-Model: Developed by the CS department at the University of Freiburg, Germany, in order to do biomedical image segmentation.
-Year: 2015
+Model: Developed by the CS department at the University of Freiburg, Germany, in order to do biomedical image segmentation.\
+Year: 2015\
 Links:
 https://ml5js.org/reference/api-UNET/
 https://arxiv.org/abs/1505.04597
@@ -83,8 +81,8 @@ Notes:
 
 ### CharRNN Interactive
 
-Model: https://github.com/karpathy/char-rnn
-Year: 2015
+Model: https://github.com/karpathy/char-rnn\
+Year: 2015\
 Links:
 https://github.com/ml5js/ml5-data-and-training/tree/master/models/charRNN
 https://github.com/karpathy/char-rnn
@@ -96,21 +94,21 @@ Notes:
 
 ### Style Transfer
 
-Model: Fast Style Transfer
-Year: 2016
+Model: Fast Style Transfer\
+Year: 2016\
 Links:
 https://ml5js.org/reference/api-StyleTransfer/
 https://github.com/reiinakano/fast-style-transfer-deeplearnjs
 
 ### CVAE
 
-Model: Conditional Variational Autoencoder
+Model: Conditional Variational Autoencoder\
 Links:
 https://ml5js.org/reference/api-CVAE/
 
 ### SketchRNN
 
-Model: based on the Quick, Draw! dataset
+Model: based on the Quick, Draw! dataset\
 Links:
 https://github.com/ml5js/ml5-library/blob/master/src/SketchRNN/models.js
 
