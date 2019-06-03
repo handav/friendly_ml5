@@ -32,13 +32,20 @@ LSTM/CHARRNN: \
 https://github.com/ml5js/training-lstm \
 * Note: for use with CharRNN 
 
+Colab Style transfer: \
+https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb
+
 ### Resources:
 
-Downloading p5.js:
+Downloading p5.js:\
 
 https://p5js.org/get-started/
 
-ml5.js examples and how to start a p5.js server:
+p5.js reference:\
+
+https://p5js.org/reference/
+
+ml5.js examples and how to start a p5.js server:\
 
 https://github.com/ml5js/ml5-examples \
 https://ml5js.org/

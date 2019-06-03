@@ -121,7 +121,7 @@ Options (for the mobilenet model):
   learningRate: 0.0001,
   hiddenUnits: 100,
   epochs: 20,
-  numClasses: 2,
+  numLabels: 3,
   batchSize: 0.4,
 }
 
