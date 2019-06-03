@@ -29,7 +29,7 @@ function setup() {
   background(220);
   // Load the model
   // See a list of all supported models: https://github.com/ml5js/ml5-library/blob/master/src/SketchRNN/models.js
-  model = ml5.sketchRNN('butterfly', modelReady);
+  model = ml5.sketchRNN('eye', modelReady);
 
   // Button to start drawing
   let button = select('#clear');
