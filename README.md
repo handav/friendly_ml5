@@ -14,11 +14,11 @@ If you get a 'media error' message, try changing your link from http://0.0.0.0:8
 9-10:30 	Introductions, intro to machine learning in general
 				Break
 10:45-11 	Installing ml5, setting up p5
-11-12:15 	Diving into ml5 models 
-12:15-1:15		Break for lunch
-1:15-2:30 	Diving into ml5 models
+11-12 		Diving into ml5 models 
+12-1		Break for lunch
+1-2		 	Diving into ml5 models
 				Break
-2:45-4 		Independent or group work on your own programs
+2:15-4 		Independent or group work on your own programs
 4-5 		Presentations of final work (optional)
 
 
@@ -31,4 +31,4 @@ https://p5js.org/get-started/
 ml5.js examples and how to start a p5.js server:
 
 https://github.com/ml5js/ml5-examples
-
+https://ml5js.org/
