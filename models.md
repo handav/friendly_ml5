@@ -6,8 +6,8 @@
 
 We can see 6 folders in here. We'll be looking at ImageClassification and ImageClassification_Video.
 
-Model: MobileNet, a good model architecture optimized for use on phones. They don't need a lot of power. Trained on a subset of the ImageNet image classification dataset of 150,000 photos and 1000 categories (the original Imagenet has 10 million labeled images showing over 10 thousand object categories).
-Year: 2012-2014 (various versions)
+Model: MobileNet, a good model architecture optimized for use on phones. They don't need a lot of power. Trained on a subset of the ImageNet image classification dataset of 150,000 photos and 1000 categories (the original Imagenet has 10 million labeled images showing over 10 thousand object categories).\
+Year: 2012-2014 (various versions)\
 Links:
 http://www.image-net.org/challenges/LSVRC/2012/
 https://ml5js.org/reference/api-ImageClassifier/
@@ -22,8 +22,8 @@ Notes:
 
 ### Sentiment
 
-Model: Trained on 25,000 movie reviews from IMDB, tagged as 'positive' or 'negative'
-\Links:
+Model: Trained on 25,000 movie reviews from IMDB, tagged as 'positive' or 'negative'\
+Links:
 https://ml5js.org/reference/api-Sentiment/
 https://github.com/tensorflow/tfjs-examples/tree/master/sentiment
 
@@ -34,8 +34,10 @@ Notes:
 ### PoseNet, PoseNet with webcam
 
 Model: PoseNet: real-time pose estimation in the browser
+
 Year: 2018
-\Links:
+
+Links:
 https://ml5js.org/reference/api-PoseNet/
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
 
