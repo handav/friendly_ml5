@@ -1,8 +1,8 @@
 # All models:
 
-### Hello world!
+## Hello world!
 
-#### Image Classification, Image Classification with webcam
+### Image Classification, Image Classification with webcam
 
 We can see 6 folders in here. We'll be looking at ImageClassification and ImageClassification_Video.
 
@@ -18,9 +18,9 @@ Notes:
 * it's not good at everything, but it's really good at some things (like animals)
 * classifier.predict() is soon going to become classifier.classify() - keep an eye on the documentation!
 
-### More classifiers:
+## More classifiers:
 
-#### Sentiment
+### Sentiment
 
 Model: Trained on 25,000 movie reviews from IMDB, tagged as 'positive' or 'negative'\
 Links:
