@@ -90,7 +90,7 @@ https://github.com/karpathy/char-rnn
 Notes:
 * changing the temperature can get different results
 * lower temperature makes more conservative predictions, where higher temperature will give more diversity in responses (but also more mistakes)
-
+* this generates more text in real-time
 
 ### Style Transfer
 
